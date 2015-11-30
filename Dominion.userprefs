@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PuzzleItem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ApparitionBehavior.cs" Line="28" Column="14" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="369" Column="1" />
+      <File FileName="Assets/Scripts/PuzzleItem.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

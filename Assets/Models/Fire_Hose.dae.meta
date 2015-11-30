@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: 0c44fb4854b53ca439f18705c8244a26
+timeCreated: 1448741685
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _3_inch_150_rfso
+    100002: _3_inch_150_rfso 1
+    100004: Fire_Extinguisher_1
+    100006: //RootNode
+    100008: group_0
+    100010: group_1
+    100012: group_10
+    100014: group_11
+    100016: group_12
+    100018: group_13
+    100020: group_14
+    100022: group_15
+    100024: group_16
+    100026: group_17
+    100028: group_18
+    100030: group_2
+    100032: group_3
+    100034: group_4
+    100036: Group_5
+    100038: group_5
+    100040: Group_5 1
+    100042: Group_5 10
+    100044: Group_5 11
+    100046: Group_5 12
+    100048: Group_5 13
+    100050: Group_5 14
+    100052: Group_5 15
+    100054: Group_5 16
+    100056: Group_5 17
+    100058: Group_5 18
+    100060: Group_5 19
+    100062: Group_5 2
+    100064: Group_5 20
+    100066: Group_5 21
+    100068: Group_5 22
+    100070: Group_5 23
+    100072: Group_5 24
+    100074: Group_5 25
+    100076: Group_5 26
+    100078: Group_5 27
+    100080: Group_5 28
+    100082: Group_5 29
+    100084: Group_5 3
+    100086: Group_5 30
+    100088: Group_5 31
+    100090: Group_5 32
+    100092: Group_5 33
+    100094: Group_5 34
+    100096: Group_5 35
+    100098: Group_5 36
+    100100: Group_5 37
+    100102: Group_5 38
+    100104: Group_5 39
+    100106: Group_5 4
+    100108: Group_5 40
+    100110: Group_5 41
+    100112: Group_5 42
+    100114: Group_5 43
+    100116: Group_5 44
+    100118: Group_5 45
+    100120: Group_5 46
+    100122: Group_5 47
+    100124: Group_5 48
+    100126: Group_5 49
+    100128: Group_5 5
+    100130: Group_5 50
+    100132: Group_5 51
+    100134: Group_5 52
+    100136: Group_5 53
+    100138: Group_5 54
+    100140: Group_5 55
+    100142: Group_5 56
+    100144: Group_5 57
+    100146: Group_5 6
+    100148: Group_5 7
+    100150: Group_5 8
+    100152: Group_5 9
+    100154: group_6
+    100156: group_7
+    100158: group_8
+    100160: group_9
+    100162: ID103
+    100164: ID109
+    100166: ID13
+    100168: ID135
+    100170: ID172
+    100172: ID178
+    100174: ID184
+    100176: ID190
+    100178: ID196
+    100180: ID202
+    100182: ID208
+    100184: ID222
+    100186: ID228
+    100188: ID234
+    100190: ID240
+    100192: ID246
+    100194: ID252
+    100196: ID258
+    100198: ID275
+    100200: ID281
+    100202: ID306
+    100204: ID312
+    100206: ID342
+    100208: ID348
+    100210: ID354
+    100212: ID368
+    100214: ID374
+    100216: ID380
+    100218: ID386
+    100220: ID392
+    100222: instance_0
+    100224: instance_1
+    100226: instance_10
+    100228: instance_11
+    100230: instance_12
+    100232: instance_13
+    100234: instance_14
+    100236: instance_15
+    100238: instance_16
+    100240: instance_17
+    100242: instance_18
+    100244: instance_19
+    100246: instance_2
+    100248: instance_20
+    100250: instance_21
+    100252: instance_22
+    100254: instance_23
+    100256: instance_24
+    100258: instance_25
+    100260: instance_26
+    100262: instance_27
+    100264: instance_28
+    100266: instance_29
+    100268: instance_3
+    100270: instance_30
+    100272: instance_31
+    100274: instance_32
+    100276: instance_33
+    100278: instance_34
+    100280: instance_35
+    100282: instance_36
+    100284: instance_37
+    100286: instance_38
+    100288: instance_39
+    100290: instance_4
+    100292: instance_40
+    100294: instance_41
+    100296: instance_42
+    100298: instance_43
+    100300: instance_44
+    100302: instance_45
+    100304: instance_46
+    100306: instance_47
+    100308: instance_48
+    100310: instance_49
+    100312: instance_5
+    100314: instance_50
+    100316: instance_51
+    100318: instance_52
+    100320: instance_53
+    100322: instance_54
+    100324: instance_55
+    100326: instance_56
+    100328: instance_57
+    100330: instance_58
+    100332: instance_59
+    100334: instance_6
+    100336: instance_60
+    100338: instance_7
+    100340: instance_8
+    100342: instance_9
+    100344: Last Saved SketchUp View
+    400000: _3_inch_150_rfso
+    400002: _3_inch_150_rfso 1
+    400004: Fire_Extinguisher_1
+    400006: //RootNode
+    400008: group_0
+    400010: group_1
+    400012: group_10
+    400014: group_11
+    400016: group_12
+    400018: group_13
+    400020: group_14
+    400022: group_15
+    400024: group_16
+    400026: group_17
+    400028: group_18
+    400030: group_2
+    400032: group_3
+    400034: group_4
+    400036: Group_5
+    400038: group_5
+    400040: Group_5 1
+    400042: Group_5 10
+    400044: Group_5 11
+    400046: Group_5 12
+    400048: Group_5 13
+    400050: Group_5 14
+    400052: Group_5 15
+    400054: Group_5 16
+    400056: Group_5 17
+    400058: Group_5 18
+    400060: Group_5 19
+    400062: Group_5 2
+    400064: Group_5 20
+    400066: Group_5 21
+    400068: Group_5 22
+    400070: Group_5 23
+    400072: Group_5 24
+    400074: Group_5 25
+    400076: Group_5 26
+    400078: Group_5 27
+    400080: Group_5 28
+    400082: Group_5 29
+    400084: Group_5 3
+    400086: Group_5 30
+    400088: Group_5 31
+    400090: Group_5 32
+    400092: Group_5 33
+    400094: Group_5 34
+    400096: Group_5 35
+    400098: Group_5 36
+    400100: Group_5 37
+    400102: Group_5 38
+    400104: Group_5 39
+    400106: Group_5 4
+    400108: Group_5 40
+    400110: Group_5 41
+    400112: Group_5 42
+    400114: Group_5 43
+    400116: Group_5 44
+    400118: Group_5 45
+    400120: Group_5 46
+    400122: Group_5 47
+    400124: Group_5 48
+    400126: Group_5 49
+    400128: Group_5 5
+    400130: Group_5 50
+    400132: Group_5 51
+    400134: Group_5 52
+    400136: Group_5 53
+    400138: Group_5 54
+    400140: Group_5 55
+    400142: Group_5 56
+    400144: Group_5 57
+    400146: Group_5 6
+    400148: Group_5 7
+    400150: Group_5 8
+    400152: Group_5 9
+    400154: group_6
+    400156: group_7
+    400158: group_8
+    400160: group_9
+    400162: ID103
+    400164: ID109
+    400166: ID13
+    400168: ID135
+    400170: ID172
+    400172: ID178
+    400174: ID184
+    400176: ID190
+    400178: ID196
+    400180: ID202
+    400182: ID208
+    400184: ID222
+    400186: ID228
+    400188: ID234
+    400190: ID240
+    400192: ID246
+    400194: ID252
+    400196: ID258
+    400198: ID275
+    400200: ID281
+    400202: ID306
+    400204: ID312
+    400206: ID342
+    400208: ID348
+    400210: ID354
+    400212: ID368
+    400214: ID374
+    400216: ID380
+    400218: ID386
+    400220: ID392
+    400222: instance_0
+    400224: instance_1
+    400226: instance_10
+    400228: instance_11
+    400230: instance_12
+    400232: instance_13
+    400234: instance_14
+    400236: instance_15
+    400238: instance_16
+    400240: instance_17
+    400242: instance_18
+    400244: instance_19
+    400246: instance_2
+    400248: instance_20
+    400250: instance_21
+    400252: instance_22
+    400254: instance_23
+    400256: instance_24
+    400258: instance_25
+    400260: instance_26
+    400262: instance_27
+    400264: instance_28
+    400266: instance_29
+    400268: instance_3
+    400270: instance_30
+    400272: instance_31
+    400274: instance_32
+    400276: instance_33
+    400278: instance_34
+    400280: instance_35
+    400282: instance_36
+    400284: instance_37
+    400286: instance_38
+    400288: instance_39
+    400290: instance_4
+    400292: instance_40
+    400294: instance_41
+    400296: instance_42
+    400298: instance_43
+    400300: instance_44
+    400302: instance_45
+    400304: instance_46
+    400306: instance_47
+    400308: instance_48
+    400310: instance_49
+    400312: instance_5
+    400314: instance_50
+    400316: instance_51
+    400318: instance_52
+    400320: instance_53
+    400322: instance_54
+    400324: instance_55
+    400326: instance_56
+    400328: instance_57
+    400330: instance_58
+    400332: instance_59
+    400334: instance_6
+    400336: instance_60
+    400338: instance_7
+    400340: instance_8
+    400342: instance_9
+    400344: Last Saved SketchUp View
+    2300000: _3_inch_150_rfso
+    2300002: _3_inch_150_rfso 1
+    2300004: Fire_Extinguisher_1
+    2300006: group_0
+    2300008: group_1
+    2300010: group_10
+    2300012: group_11
+    2300014: group_12
+    2300016: group_13
+    2300018: group_14
+    2300020: group_16
+    2300022: group_17
+    2300024: group_18
+    2300026: group_2
+    2300028: Group_5
+    2300030: group_5
+    2300032: Group_5 1
+    2300034: Group_5 10
+    2300036: Group_5 11
+    2300038: Group_5 12
+    2300040: Group_5 13
+    2300042: Group_5 14
+    2300044: Group_5 15
+    2300046: Group_5 16
+    2300048: Group_5 17
+    2300050: Group_5 18
+    2300052: Group_5 19
+    2300054: Group_5 2
+    2300056: Group_5 20
+    2300058: Group_5 21
+    2300060: Group_5 22
+    2300062: Group_5 23
+    2300064: Group_5 24
+    2300066: Group_5 25
+    2300068: Group_5 26
+    2300070: Group_5 27
+    2300072: Group_5 28
+    2300074: Group_5 29
+    2300076: Group_5 3
+    2300078: Group_5 30
+    2300080: Group_5 31
+    2300082: Group_5 32
+    2300084: Group_5 33
+    2300086: Group_5 34
+    2300088: Group_5 35
+    2300090: Group_5 36
+    2300092: Group_5 37
+    2300094: Group_5 38
+    2300096: Group_5 39
+    2300098: Group_5 4
+    2300100: Group_5 40
+    2300102: Group_5 41
+    2300104: Group_5 42
+    2300106: Group_5 43
+    2300108: Group_5 44
+    2300110: Group_5 45
+    2300112: Group_5 46
+    2300114: Group_5 47
+    2300116: Group_5 48
+    2300118: Group_5 49
+    2300120: Group_5 5
+    2300122: Group_5 50
+    2300124: Group_5 51
+    2300126: Group_5 52
+    2300128: Group_5 53
+    2300130: Group_5 54
+    2300132: Group_5 55
+    2300134: Group_5 56
+    2300136: Group_5 57
+    2300138: Group_5 6
+    2300140: Group_5 7
+    2300142: Group_5 8
+    2300144: Group_5 9
+    2300146: group_6
+    2300148: group_7
+    2300150: group_9
+    2300152: ID103
+    2300154: ID109
+    2300156: ID13
+    2300158: ID135
+    2300160: ID172
+    2300162: ID178
+    2300164: ID184
+    2300166: ID190
+    2300168: ID196
+    2300170: ID202
+    2300172: ID208
+    2300174: ID222
+    2300176: ID228
+    2300178: ID234
+    2300180: ID240
+    2300182: ID246
+    2300184: ID252
+    2300186: ID258
+    2300188: ID275
+    2300190: ID281
+    2300192: ID306
+    2300194: ID312
+    2300196: ID342
+    2300198: ID348
+    2300200: ID354
+    2300202: ID368
+    2300204: ID374
+    2300206: ID380
+    2300208: ID386
+    2300210: ID392
+    3300000: _3_inch_150_rfso
+    3300002: _3_inch_150_rfso 1
+    3300004: Fire_Extinguisher_1
+    3300006: group_0
+    3300008: group_1
+    3300010: group_10
+    3300012: group_11
+    3300014: group_12
+    3300016: group_13
+    3300018: group_14
+    3300020: group_16
+    3300022: group_17
+    3300024: group_18
+    3300026: group_2
+    3300028: Group_5
+    3300030: group_5
+    3300032: Group_5 1
+    3300034: Group_5 10
+    3300036: Group_5 11
+    3300038: Group_5 12
+    3300040: Group_5 13
+    3300042: Group_5 14
+    3300044: Group_5 15
+    3300046: Group_5 16
+    3300048: Group_5 17
+    3300050: Group_5 18
+    3300052: Group_5 19
+    3300054: Group_5 2
+    3300056: Group_5 20
+    3300058: Group_5 21
+    3300060: Group_5 22
+    3300062: Group_5 23
+    3300064: Group_5 24
+    3300066: Group_5 25
+    3300068: Group_5 26
+    3300070: Group_5 27
+    3300072: Group_5 28
+    3300074: Group_5 29
+    3300076: Group_5 3
+    3300078: Group_5 30
+    3300080: Group_5 31
+    3300082: Group_5 32
+    3300084: Group_5 33
+    3300086: Group_5 34
+    3300088: Group_5 35
+    3300090: Group_5 36
+    3300092: Group_5 37
+    3300094: Group_5 38
+    3300096: Group_5 39
+    3300098: Group_5 4
+    3300100: Group_5 40
+    3300102: Group_5 41
+    3300104: Group_5 42
+    3300106: Group_5 43
+    3300108: Group_5 44
+    3300110: Group_5 45
+    3300112: Group_5 46
+    3300114: Group_5 47
+    3300116: Group_5 48
+    3300118: Group_5 49
+    3300120: Group_5 5
+    3300122: Group_5 50
+    3300124: Group_5 51
+    3300126: Group_5 52
+    3300128: Group_5 53
+    3300130: Group_5 54
+    3300132: Group_5 55
+    3300134: Group_5 56
+    3300136: Group_5 57
+    3300138: Group_5 6
+    3300140: Group_5 7
+    3300142: Group_5 8
+    3300144: Group_5 9
+    3300146: group_6
+    3300148: group_7
+    3300150: group_9
+    3300152: ID103
+    3300154: ID109
+    3300156: ID13
+    3300158: ID135
+    3300160: ID172
+    3300162: ID178
+    3300164: ID184
+    3300166: ID190
+    3300168: ID196
+    3300170: ID202
+    3300172: ID208
+    3300174: ID222
+    3300176: ID228
+    3300178: ID234
+    3300180: ID240
+    3300182: ID246
+    3300184: ID252
+    3300186: ID258
+    3300188: ID275
+    3300190: ID281
+    3300192: ID306
+    3300194: ID312
+    3300196: ID342
+    3300198: ID348
+    3300200: ID354
+    3300202: ID368
+    3300204: ID374
+    3300206: ID380
+    3300208: ID386
+    3300210: ID392
+    4300000: group_0
+    4300002: ID13
+    4300004: group_1
+    4300006: ID103
+    4300008: ID109
+    4300010: group_2
+    4300012: Group_5
+    4300014: group_5
+    4300016: group_6
+    4300018: ID135
+    4300020: group_7
+    4300022: group_9
+    4300024: group_10
+    4300026: _3_inch_150_rfso
+    4300028: ID172
+    4300030: ID178
+    4300032: ID184
+    4300034: ID190
+    4300036: ID196
+    4300038: ID202
+    4300040: ID208
+    4300042: _3_inch_150_rfso
+    4300044: ID222
+    4300046: ID228
+    4300048: ID234
+    4300050: ID240
+    4300052: ID246
+    4300054: ID252
+    4300056: ID258
+    4300058: group_11
+    4300060: ID306
+    4300062: ID312
+    4300064: group_12
+    4300066: group_13
+    4300068: ID275
+    4300070: ID281
+    4300072: group_14
+    4300074: group_16
+    4300076: group_17
+    4300078: Fire_Extinguisher_1
+    4300080: ID368
+    4300082: ID374
+    4300084: ID380
+    4300086: ID386
+    4300088: ID392
+    4300090: group_18
+    4300092: ID342
+    4300094: ID348
+    4300096: ID354
+    6400000: _3_inch_150_rfso
+    6400002: _3_inch_150_rfso 1
+    6400004: Fire_Extinguisher_1
+    6400006: group_0
+    6400008: group_1
+    6400010: group_10
+    6400012: group_11
+    6400014: group_12
+    6400016: group_13
+    6400018: group_14
+    6400020: group_16
+    6400022: group_17
+    6400024: group_18
+    6400026: group_2
+    6400028: Group_5
+    6400030: group_5
+    6400032: Group_5 1
+    6400034: Group_5 10
+    6400036: Group_5 11
+    6400038: Group_5 12
+    6400040: Group_5 13
+    6400042: Group_5 14
+    6400044: Group_5 15
+    6400046: Group_5 16
+    6400048: Group_5 17
+    6400050: Group_5 18
+    6400052: Group_5 19
+    6400054: Group_5 2
+    6400056: Group_5 20
+    6400058: Group_5 21
+    6400060: Group_5 22
+    6400062: Group_5 23
+    6400064: Group_5 24
+    6400066: Group_5 25
+    6400068: Group_5 26
+    6400070: Group_5 27
+    6400072: Group_5 28
+    6400074: Group_5 29
+    6400076: Group_5 3
+    6400078: Group_5 30
+    6400080: Group_5 31
+    6400082: Group_5 32
+    6400084: Group_5 33
+    6400086: Group_5 34
+    6400088: Group_5 35
+    6400090: Group_5 36
+    6400092: Group_5 37
+    6400094: Group_5 38
+    6400096: Group_5 39
+    6400098: Group_5 4
+    6400100: Group_5 40
+    6400102: Group_5 41
+    6400104: Group_5 42
+    6400106: Group_5 43
+    6400108: Group_5 44
+    6400110: Group_5 45
+    6400112: Group_5 46
+    6400114: Group_5 47
+    6400116: Group_5 48
+    6400118: Group_5 49
+    6400120: Group_5 5
+    6400122: Group_5 50
+    6400124: Group_5 51
+    6400126: Group_5 52
+    6400128: Group_5 53
+    6400130: Group_5 54
+    6400132: Group_5 55
+    6400134: Group_5 56
+    6400136: Group_5 57
+    6400138: Group_5 6
+    6400140: Group_5 7
+    6400142: Group_5 8
+    6400144: Group_5 9
+    6400146: group_6
+    6400148: group_7
+    6400150: group_9
+    6400152: ID103
+    6400154: ID109
+    6400156: ID13
+    6400158: ID135
+    6400160: ID172
+    6400162: ID178
+    6400164: ID184
+    6400166: ID190
+    6400168: ID196
+    6400170: ID202
+    6400172: ID208
+    6400174: ID222
+    6400176: ID228
+    6400178: ID234
+    6400180: ID240
+    6400182: ID246
+    6400184: ID252
+    6400186: ID258
+    6400188: ID275
+    6400190: ID281
+    6400192: ID306
+    6400194: ID312
+    6400196: ID342
+    6400198: ID348
+    6400200: ID354
+    6400202: ID368
+    6400204: ID374
+    6400206: ID380
+    6400208: ID386
+    6400210: ID392
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0199999996
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
